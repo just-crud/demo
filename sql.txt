@@ -1,0 +1,7 @@
+select c.COMMENT$,ta.* 
+from dba_tab_columns ta Left join SYSCOLUMNCOMMENTS c
+on ta.Table_Name = c.TVNAME and ta.COLUMN_NAME = c.COLNAME
+where ta.Table_Name= 'MODEL_TABLE_COLUMN'
+
+
+

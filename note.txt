@@ -1,0 +1,5 @@
+synchronized、lock、CAS
+
+深拷贝、浅拷贝
+
+序列化

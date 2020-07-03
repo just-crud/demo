@@ -1,0 +1,1 @@
+carriage return  回车（CR）对应ASCII码中的13

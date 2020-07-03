@@ -1,0 +1,7 @@
+$ git status
+$ git add .
+$ git commit -m '日志中心数据库概念模型设计增加表字段uri和字段http_user_agent,及有些字段去空处理'
+$ git fetch
+$ git merge
+$ git pull
+$ git push
